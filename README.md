@@ -1,2 +1,2 @@
 # odin_recipes
-My first HTML project!
+My first HTML project! Basic HTML knowledge.
